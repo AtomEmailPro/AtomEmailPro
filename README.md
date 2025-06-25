@@ -88,7 +88,7 @@ AtomEmailPro supports both — in one unified platform.
 
 💬 Telegram: [@spinnerchief](https://t.me/spinnerchief)  
 🌍 Website: [https://www.atomemailpro.com](https://www.atomemailpro.com)  
-📩 Email: contact@atomemailpro.com
+📩 Email: support@atomemailpro.com
 
 ---
 
