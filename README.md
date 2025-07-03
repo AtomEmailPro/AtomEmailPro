@@ -122,7 +122,6 @@ Most cold email tools charge you **monthly**.
 - 📧 Email: support@atomemailpro.com  
 - 🌐 Website: [https://atomemailpro.com](https://atomemailpro.com)  
 - 📢 Telegram: [@spinnerchief](https://t.me/spinnerchief)
-- 🛠️ GitHub: [AtomEmailPro](https://github.com/AtomEmailPro/AtomEmailPro)
 
 ---
 
